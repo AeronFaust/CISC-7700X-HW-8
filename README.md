@@ -8,3 +8,5 @@ Run: ./main
 Ran using 2500 data eentry from hw6.data.csv
 
 ChatGPT Prompts used: "ID3 in c++"
+
+Resulting information in log.txt
